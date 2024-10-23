@@ -46,8 +46,4 @@ I'm studying at HUFLIT in 3rd year. I started with html and now learning more ab
 <a href="http://www.github.com/imben18"><img src="https://github-readme-stats.vercel.app/api?username=imben18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="imben18's GitHub stats" /></a>
 
 <a href="https://github.com/imben18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imben18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/imben18/Tri_N3_T4C2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=imben18&repo=Tri_N3_T4C2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <br>
