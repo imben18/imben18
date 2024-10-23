@@ -56,7 +56,10 @@ I'm studying at HUFLIT in 3rd year. I started with html and now learning more ab
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="http://www.github.com/imben18"><img src="https://github-readme-stats.vercel.app/api?username=imben18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="imben18's GitHub stats" /></a>
-
-<a href="https://github.com/imben18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imben18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="#" title="imben18">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imben18&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="imben18">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=imben18&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  </a>
 </div>
